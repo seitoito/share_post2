@@ -23,4 +23,6 @@ group :development do
   gem 'rubocop-rails'
   gem 'rubocop-rspec'
   gem 'solargraph'
+  gem 'pry-byebug'
+  gem 'devise'
 end
